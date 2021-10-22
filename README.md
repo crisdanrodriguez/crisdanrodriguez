@@ -1,4 +1,4 @@
-<h1> <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" width="30px"> Hey there! I'm Cristian </h1>
+<h1> <img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b95211i01yzibtax7bavnouv04uu7q8ncyhv9xga4wye&rid=giphy.gif&ct=s" width="50px"> Hey there! I'm Cristian </h1>
 
 <h2> 👨🏻‍💻 About Me </h2>
 
@@ -14,7 +14,7 @@
 - ☁️ &nbsp; AWS | Azure  
 - ⚙️ &nbsp; SolidWorks | Autodesk Fusion 360 | Ansys  
 
-<h2>📈 My GitHub Metrics</h2>
+<h2>📈 My GitHub Stats</h2>
 
 <p align="center">
 <a href="https://github.com/crisdanrodriguez">
@@ -23,7 +23,7 @@
 </a>
 </p align='center'>
 
-<h2> 📫 How to reach me: </h2>
+<h2> 📫 Contact me: </h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/crisdanrodriguez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
