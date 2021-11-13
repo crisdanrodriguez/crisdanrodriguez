@@ -1,4 +1,4 @@
-<h1> <img src="https://media2.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b95211i01yzibtax7bavnouv04uu7q8ncyhv9xga4wye&rid=giphy.gif&ct=s" width="50px"> Hey there! I'm Cristian </h1>
+<h1> 👋 Hey there! I'm Cristian </h1>
 
 <h2> 👨🏻‍💻 About Me </h2>
 
