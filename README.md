@@ -14,16 +14,7 @@
 - ☁️ &nbsp; AWS | Azure  
 - ⚙️ &nbsp; SolidWorks | Autodesk Fusion 360 | Ansys  
 
-<h2>📈 My GitHub Stats</h2>
-
-<p align="center">
-<a href="https://github.com/crisdanrodriguez">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=crisdanrodriguez&include_all_commits=true&count_private=true&theme=nord&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&theme=nord&layout=compact" />
-</a>
-</p align='center'>
-
-<h2> 📫 Contact me: </h2>
+<h2> 📫 Contact me </h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/crisdanrodriguez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
