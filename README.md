@@ -2,7 +2,6 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 I’m currently working at Kellogg Company as a Data Science Intern
 - 🎓 Mechatronics Engineering Student at Tecnologico de Monterrey
 - 🌱 Passionate about learning new things related to emerging technologies
 - 🤓 AI & Data Science enthusiast
