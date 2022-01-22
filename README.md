@@ -9,7 +9,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | C | R | SQL | Matlab  
+- 💻 &nbsp; Python | C | C++ | R | SQL | Matlab  
 - ☁️ &nbsp; AWS | Azure  
 - ⚙️ &nbsp; SolidWorks | Autodesk Fusion 360 | Ansys  
 
