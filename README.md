@@ -10,8 +10,7 @@
 <h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Python | C | C++ | R | SQL | Matlab  
-- ☁️ &nbsp; AWS | Azure  
-- ⚙️ &nbsp; SolidWorks | Autodesk Fusion 360 | Ansys  
+- ☁️ &nbsp; AWS | Azure   
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord&hide_border=true" width="450"/></a> 
 
