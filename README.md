@@ -12,8 +12,6 @@
 - 💻 &nbsp; Python | C | C++ | R | SQL | Matlab  
 - ☁️ &nbsp; AWS | Azure   
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord&hide_border=true" width="450"/></a> 
-
 <h2> 📫 Contact me </h2>
 
 <p align="center">
