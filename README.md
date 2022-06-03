@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🎓 Mechatronics Engineering Student at Tecnológico de Monterrey
+- 🎓 Mechatronics Engineer from Tecnológico de Monterrey
 - 🌱 Passionate about learning new things related to emerging technologies
 - 🤓 AI, Robotics & Data Science enthusiast
 
