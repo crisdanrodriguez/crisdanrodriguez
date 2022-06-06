@@ -20,7 +20,3 @@
 &nbsp; <a href="https://www.linkedin.com/in/crisdanrodriguez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
 &nbsp; <a href="mailto:crisdanrodvaz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
 </p align='center'>
-
-</br>
-
-⭐️ From [crisdanrodriguez](https://github.com/crisdanrodriguez)
