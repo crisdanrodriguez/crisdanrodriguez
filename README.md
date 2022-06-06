@@ -10,7 +10,9 @@
 <h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Python | C | C++ | R | SQL | Matlab  
-- ☁️ &nbsp; AWS | Azure   
+- ☁️ &nbsp; AWS | Azure
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord)
 
 <h2> 📫 Contact me </h2>
 
