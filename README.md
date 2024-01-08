@@ -4,13 +4,15 @@
 
 - 🎓 Mechatronics Engineer from Tecnológico de Monterrey
 - 🌱 Passionate about learning new things related to emerging technologies
-- 🤓 AI, Robotics & Data Science enthusiast
+- 🤓 AI, Data Science, Robotics & Automation enthusiast
 
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | C | C++ | R | SQL | Matlab  
+- 💻 &nbsp; Python | C++ | C | R | SQL | Matlab
+- 🤖 &nbsp; GitHub Actions | Jenkins | UiPath
 - ☁️ &nbsp; AWS | Azure
+- ⚙  &nbsp; Windows | Linux
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord)
 
