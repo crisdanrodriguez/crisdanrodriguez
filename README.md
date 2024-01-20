@@ -9,10 +9,12 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | C++ | C | R | SQL | Matlab
-- 🤖 &nbsp; GitHub Actions | Jenkins | UiPath
+- 🕹️ &nbsp; Python | C++ | C | R | SQL | MATLAB
+- 🤖 &nbsp; Jenkins | GitHub Actions | UiPath
 - ☁️ &nbsp; AWS | Azure
-- ⚙  &nbsp; Windows | Linux
+- 🖥️ &nbsp; Windows | Linux
+- 🏭 &nbsp; Automotive | Power | Food
+- 🚗 &nbsp; LiDAR
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord)
 
