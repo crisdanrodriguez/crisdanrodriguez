@@ -11,10 +11,10 @@
 
 - 🕹️ &nbsp; Python | C++ | C | R | SQL | MATLAB
 - 🤖 &nbsp; Jenkins | GitHub Actions | UiPath
+- 👾 &nbsp; ChatGPT | GitHub Copilot
 - ☁️ &nbsp; AWS | Azure
 - 🖥️ &nbsp; Windows | Linux
 - 🏭 &nbsp; Automotive | Power | Food
-- 🚗 &nbsp; LiDAR
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord)
 
