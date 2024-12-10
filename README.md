@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🎓 Mechatronics Engineer from Tecnológico de Monterrey
+- 🎓 BSc Mechatronics Engineer from Tecnológico de Monterrey
 - 🌱 Passionate about learning new things related to emerging technologies
 - 🤓 AI, Data Science, Robotics & Automation enthusiast
 
@@ -10,6 +10,7 @@
 <h2>🛠 Tech Stack</h2>
 
 - 🕹️ &nbsp; Python | C++ | C | R | SQL | MATLAB
+- 📊 &nbsp; Dash/Plotly | Datapane | Power Bi
 - 🤖 &nbsp; Jenkins | GitHub Actions | UiPath
 - 👾 &nbsp; ChatGPT | GitHub Copilot
 - ☁️ &nbsp; AWS | Azure
