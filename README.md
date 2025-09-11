@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cristian Rodríguez  
+# 👋 Hi, I’m Cristian
 
 ## About Me  
 
