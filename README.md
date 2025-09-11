@@ -1,27 +1,15 @@
-<h1> 👋 Hey there! I'm Cristian </h1>
+# 👋 Hi, I’m Cristian Rodríguez  
 
-<h2> 👨🏻‍💻 About Me </h2>
+## About Me  
 
-- 🎓 BSc Mechatronics Engineer from Tecnológico de Monterrey
-- 🌱 Passionate about learning new things related to emerging technologies
-- 🤓 AI, Data Science, Robotics & Automation enthusiast
+- 🎓 M.S. Computer Science student at USC Viterbi 
+- 🎓 B.S. in Mechatronics Engineering from Tecnológico de Monterrey 
+- 💻 Former R&D Algorithms Engineer at Continental Autonomous Mobility
+- 🚀 Founder of ADDIV, a 3D-printing startup designing and selling sustainable products online  
+- 🤖 Interests: Machine Learning, Computer Vision, Data Science, Autonomous Systems 
+- 🌎 Goal: Apply AI to create technology-driven solutions that address real-world challenges, particularly in Mexico  
 
-
-<h2>🛠 Tech Stack</h2>
-
-- 🕹️ &nbsp; Python | C++ | C | R | SQL | MATLAB
-- 📊 &nbsp; Dash/Plotly | Datapane | Power Bi
-- 🤖 &nbsp; Jenkins | GitHub Actions | UiPath
-- 👾 &nbsp; ChatGPT | GitHub Copilot
-- ☁️ &nbsp; AWS | Azure
-- 🖥️ &nbsp; Windows | Linux
-- 🏭 &nbsp; Automotive | Power | Food
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=crisdanrodriguez&layout=compact&theme=nord)
-
-<h2> 📫 Contact me </h2>
-
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/crisdanrodriguez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
-&nbsp; <a href="mailto:crisdanrodvaz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
-</p align='center'>
+## 📫 Connect with Me  
+- [LinkedIn](www.linkedin.com/in/crisdanrodriguez)  
+- [Medium](https://medium.com/@crisdanrodriguez)  
+- [Email](mailto:crisdanrodvaz@gmail.com)  
