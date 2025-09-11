@@ -2,7 +2,7 @@
 
 ## About Me  
 
-- 🎓 M.S. Computer Science student at USC Viterbi 
+- 🎓 M.S. student in Computer Science at USC Viterbi 
 - 🎓 B.S. in Mechatronics Engineering from Tecnológico de Monterrey 
 - 💻 Former R&D Algorithms Engineer at Continental Autonomous Mobility
 - 🚀 Founder of ADDIV, a 3D-printing startup designing and selling sustainable products online  
