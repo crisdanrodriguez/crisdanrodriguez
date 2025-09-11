@@ -10,6 +10,6 @@
 - 🌎 Goal: Apply AI to create technology-driven solutions that address real-world challenges, particularly in Mexico  
 
 ## 📫 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/crisdanrodriguez)  
+- [LinkedIn](https://www.linkedin.com/in/crisdanrodriguez)  
 - [Medium](https://medium.com/@crisdanrodriguez)  
 - [Email](mailto:crisdanrodvaz@gmail.com)  
