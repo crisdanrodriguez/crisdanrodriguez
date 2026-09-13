@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Cristian
 
-## About Me  
+I’m a Computer Science M.S. student at USC with a background in Mechatronics Engineering and experience building intelligent systems that connect software, hardware, and real-world operations.
 
-- 🎓 M.S. student in Computer Science at USC Viterbi 
-- 🎓 B.S. in Mechatronics Engineering from Tecnológico de Monterrey 
-- 💻 Former R&D Algorithms Engineer at Continental Autonomous Mobility
-- 🤖 I am interested in Machine Learning, Computer Vision, Data Science, Robotics, and Autonomous Systems 
-- 🌎 My goal is to apply AI to create technology-driven solutions that address real-world challenges 
+## About Me
+
+- 🎓 M.S. in Computer Science at USC Viterbi
+- 🤖 Interested in AI, Robotics, Computer Vision, Autonomous Systems, and Automation
+- 🚗 Former R&D Algorithms Engineer at Continental Autonomous Mobility, working on LiDAR perception and validation systems
+- 🏭 Founder of ADDIV, where I build automated workflows and software for additive manufacturing operations
+- 💻 I enjoy developing systems that combine Python, software automation, data, and physical processes
+- 🌎 My goal is to build intelligent technologies that solve practical problems in mobility, manufacturing, and everyday life
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/crisdanrodriguez)  
